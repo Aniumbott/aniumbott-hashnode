@@ -1,0 +1,232 @@
+{
+  "name": "",
+  "type": "folder",
+  "children": [
+    {
+      "name": "blogs",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Essential HTML Facts Every Web Developer Must Learn",
+          "type": "folder",
+          "children": [
+            {
+              "name": "sematic_elements.png",
+              "type": "image"
+            },
+            {
+              "name": "skeleton.jpg",
+              "type": "image"
+            },
+            {
+              "name": "The_HTML.png",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "name": "NGSPICE: Ultimate Circuit Simulation Tool",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Fan-Out-of-TTL-Inverter-Output.png",
+              "type": "image"
+            },
+            {
+              "name": "Fan-Out-of-TTL-Inverter.png",
+              "type": "image"
+            },
+            {
+              "name": "ngspice-manual.pdf",
+              "type": "file",
+              "children": []
+            },
+            {
+              "name": "Ngspice.png",
+              "type": "image"
+            },
+            {
+              "name": "RC-Circuit-Output.png",
+              "type": "image"
+            },
+            {
+              "name": "RC-Circuit.png",
+              "type": "image"
+            },
+            {
+              "name": "TTL-Inverter.png",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "name": "Spring Boot REST API for Production",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Layered Architecture.png",
+              "type": "image"
+            },
+            {
+              "name": "spring-boot.jpg",
+              "type": "image"
+            },
+            {
+              "name": "spring_vs_spring_boot.png",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "name": "Unleash Your Linux System's Potential",
+          "type": "folder",
+          "children": [
+            {
+              "name": "auto-cpufreq.png",
+              "type": "image"
+            },
+            {
+              "name": "btop output.png",
+              "type": "image"
+            },
+            {
+              "name": "cmus and cava.png",
+              "type": "image"
+            },
+            {
+              "name": "Distro Comparison.webp",
+              "type": "file",
+              "children": []
+            },
+            {
+              "name": "flatpack_vs_snap_appImage.png",
+              "type": "image"
+            },
+            {
+              "name": "Linux Blog.png",
+              "type": "image"
+            },
+            {
+              "name": "neovim.png",
+              "type": "image"
+            },
+            {
+              "name": "optimus-manager.png",
+              "type": "image"
+            },
+            {
+              "name": "Plasma Vantage.png",
+              "type": "image"
+            },
+            {
+              "name": "spotify-tui.png",
+              "type": "image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "generate-json.py",
+      "type": "file",
+      "children": []
+    },
+    {
+      "name": "index.html",
+      "type": "file",
+      "children": []
+    },
+    {
+      "name": "README.md",
+      "type": "file",
+      "children": []
+    },
+    {
+      "name": "resume",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Aniket_Rana_Resume.pdf",
+          "type": "file",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "script.js",
+      "type": "file",
+      "children": []
+    },
+    {
+      "name": "series",
+      "type": "folder",
+      "children": [
+        {
+          "name": "projects",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Fire Alarm System",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Atmega32L__datasheet.pdf",
+                  "type": "file",
+                  "children": []
+                },
+                {
+                  "name": "bmp180.png",
+                  "type": "image"
+                },
+                {
+                  "name": "Fire_Alarm_System_Documentation.pdf",
+                  "type": "file",
+                  "children": []
+                },
+                {
+                  "name": "flowchart.png",
+                  "type": "image"
+                },
+                {
+                  "name": "mq2.jpg",
+                  "type": "image"
+                },
+                {
+                  "name": "MQ2_datasheet.pdf",
+                  "type": "file",
+                  "children": []
+                },
+                {
+                  "name": "poster.png",
+                  "type": "image"
+                },
+                {
+                  "name": "protocols.png",
+                  "type": "image"
+                },
+                {
+                  "name": "sim900d.jpg",
+                  "type": "image"
+                },
+                {
+                  "name": "SIM900D_datasheet.pdf",
+                  "type": "file",
+                  "children": []
+                },
+                {
+                  "name": "tmp35_36_37_datasheet.pdf",
+                  "type": "file",
+                  "children": []
+                },
+                {
+                  "name": "tmp36.jpg",
+                  "type": "image"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
