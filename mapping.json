@@ -228,6 +228,24 @@
                   "type": "image"
                 }
               ]
+            },
+            {
+              "name": "HSF Training Center",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "All_Tutorials.png",
+                  "type": "image"
+                },
+                {
+                  "name": "Curriculum.png",
+                  "type": "image"
+                },
+                {
+                  "name": "HSF_Training_Center.png",
+                  "type": "image"
+                }
+              ]
             }
           ]
         }
