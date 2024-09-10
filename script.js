@@ -1,4 +1,4 @@
-const path = './'
+const path = '.'
 
 async function fetchMapping() {
   const mapping = await fetch(path + '/mapping.json')
