@@ -127,12 +127,17 @@
       ]
     },
     {
-      "name": "generate-json.py",
+      "name": "generate-mapping.py",
       "type": "file",
       "children": []
     },
     {
       "name": "index.html",
+      "type": "file",
+      "children": []
+    },
+    {
+      "name": "mapping.json",
       "type": "file",
       "children": []
     },
