@@ -246,6 +246,32 @@
                   "type": "image"
                 }
               ]
+            },
+            {
+              "name": "MicroViz",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "ar_mode.png",
+                  "type": "image"
+                },
+                {
+                  "name": "details.png",
+                  "type": "image"
+                },
+                {
+                  "name": "device.png",
+                  "type": "image"
+                },
+                {
+                  "name": "MicroViz.png",
+                  "type": "image"
+                },
+                {
+                  "name": "view.png",
+                  "type": "image"
+                }
+              ]
             }
           ]
         }
