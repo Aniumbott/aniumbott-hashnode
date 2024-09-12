@@ -171,6 +171,17 @@
           "type": "folder",
           "children": [
             {
+              "name": "Cattle Detection",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Acknowledgement Letter to SVNIT_Signed.pdf",
+                  "type": "file",
+                  "children": []
+                }
+              ]
+            },
+            {
               "name": "Fire Alarm System",
               "type": "folder",
               "children": [
