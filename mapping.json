@@ -283,6 +283,21 @@
                   "type": "image"
                 }
               ]
+            },
+            {
+              "name": "SMOTS",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Aniket-Rana-XROS-Report.pdf",
+                  "type": "file",
+                  "children": []
+                },
+                {
+                  "name": "SMOTS.png",
+                  "type": "image"
+                }
+              ]
             }
           ]
         }
