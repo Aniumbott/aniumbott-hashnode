@@ -127,6 +127,17 @@
       ]
     },
     {
+      "name": "certificates",
+      "type": "folder",
+      "children": [
+        {
+          "name": "ML_Summer_School.pdf",
+          "type": "file",
+          "children": []
+        }
+      ]
+    },
+    {
       "name": "generate-mapping.py",
       "type": "file",
       "children": []
