@@ -131,6 +131,11 @@
       "type": "folder",
       "children": [
         {
+          "name": "CWS_Progress_Report.pdf",
+          "type": "file",
+          "children": []
+        },
+        {
           "name": "ML_Summer_School.pdf",
           "type": "file",
           "children": []
