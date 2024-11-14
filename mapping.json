@@ -269,6 +269,11 @@
                   "type": "image"
                 },
                 {
+                  "name": "Gmail - HSF Training Center.pdf",
+                  "type": "file",
+                  "children": []
+                },
+                {
                   "name": "HSF_Training_Center.png",
                   "type": "image"
                 }
